@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 14/03/2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -30,13 +30,25 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
-## Input:
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210403" src="https://github.com/user-attachments/assets/53d7d56e-371d-4f2f-8cd0-b9a4b91d4efe" />
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210458" src="https://github.com/user-attachments/assets/e6048d3f-9cca-476b-af30-d9a400fec4fd" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210528" src="https://github.com/user-attachments/assets/96b9e18e-6dd9-43bd-921f-3fa2a59b8930" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-03-24 210635" src="https://github.com/user-attachments/assets/1a2e8b7e-5097-4a4e-91db-f8912108eca8" />
+
+
 
 ### Output:
 
+![WhatsApp Image 2026-03-24 at 9 41 39 PM](https://github.com/user-attachments/assets/c78bc136-d3ac-4e20-b15d-37efea32e38e)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2026-03-24 at 9 41 23 PM](https://github.com/user-attachments/assets/4eccbe62-e834-4450-8a8b-7963cb275a54)
+
+
+
+### Name: Jenoviya D
+### Register Number: 212225040151
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
